@@ -18,5 +18,6 @@ or phrase selection based on relevance using statistical methods, NLP algorithms
 learning models. Scoring and ranking mechanisms are then employed to prioritize sentences 
 or phrases, culminating in the selection of top-ranked components to form the final summary. 
 
-   ![alt text](./image.png)
-   ![alt text](./image-1.png)
+ ![alt text](<Screenshot 2025-02-28 195640.png>)
+
+ ![alt text](<Screenshot 2025-02-28 195705.png>)
